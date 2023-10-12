@@ -1,5 +1,5 @@
 steps:
-  CUSTOMER-a35f0c91-2563-4ff6-bd73-d35e7f110573:
+  CUSTOMER-685cd132-9eb3-4fcf-997a-a1afdce3dd17:
     operation:
       database: ""
       dataset: ""
@@ -14,8 +14,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: d259bd23-9325-45b5-b2c1-c1b30c8d022d
-              stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+              columnCounter: b5dbce6f-13eb-4fcf-bceb-cb56f2646c79
+              stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
             config: {}
             dataType: NUMBER(38,0)
             defaultValue: ""
@@ -29,8 +29,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: a678c139-dbd4-4f95-8a70-883a16a5ad9a
-              stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+              columnCounter: a9dbf6fd-53a8-4f81-be52-7b918f83e61d
+              stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
             config: {}
             dataType: VARCHAR(25)
             defaultValue: ""
@@ -44,8 +44,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 2f60b018-3f37-4483-aa1f-d7d6277e741e
-              stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+              columnCounter: 1b274279-d6c0-4866-bd25-ff5c04d0e0cf
+              stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
             config: {}
             dataType: VARCHAR(40)
             defaultValue: ""
@@ -59,8 +59,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 50be9fbd-4f43-427e-9ad1-1bac65515b36
-              stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+              columnCounter: 04b47bfc-519a-4608-a92c-8a77dabff398
+              stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
             config: {}
             dataType: NUMBER(38,0)
             defaultValue: ""
@@ -74,8 +74,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 4849a55e-821a-48c0-be42-f8716d277749
-              stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+              columnCounter: 31a125c5-b879-4220-a894-f77c4acf28ef
+              stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
             config: {}
             dataType: VARCHAR(15)
             defaultValue: ""
@@ -89,8 +89,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 4a9a5695-00a4-45d8-a722-37996191765d
-              stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+              columnCounter: 0e0517b6-bda4-4b3d-b66d-c5588d5aadc0
+              stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
             config: {}
             dataType: NUMBER(12,2)
             defaultValue: ""
@@ -104,8 +104,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 0cb8036f-e716-4d8a-95c9-d6a6006a2894
-              stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+              columnCounter: b6a2760f-ffdf-4b22-b03e-1be113a03bf3
+              stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
             config: {}
             dataType: VARCHAR(10)
             defaultValue: ""
@@ -119,8 +119,8 @@ steps:
               values: []
             appliedColumnTests: {}
             columnReference:
-              columnCounter: 28d71a73-6f31-4529-ad79-7d8fbee05254
-              stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+              columnCounter: cebab6df-c3be-4896-a2fa-1515c60d1770
+              stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
             config: {}
             dataType: VARCHAR(117)
             defaultValue: ""
@@ -136,4 +136,4 @@ steps:
       sqlType: Source
       table: CUSTOMER
       type: sourceInput
-    stepCounter: a35f0c91-2563-4ff6-bd73-d35e7f110573
+    stepCounter: 685cd132-9eb3-4fcf-997a-a1afdce3dd17
