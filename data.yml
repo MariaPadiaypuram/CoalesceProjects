@@ -17,8 +17,8 @@ locations:
   TARGET:
     mappingDefinitions:
       "3":
-        database: PRODUCTIONDB
-        schema: PRODUCTION
+        database: PC_COALESCE_DB
+        schema: PUBLIC
 macros:
   Macro-1:
     id: "1"
